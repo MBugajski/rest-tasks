@@ -27,9 +27,9 @@ repositories {
 	maven { url "https://repo.spring.io/milestone" }
 }
 
-war {
+//war {
 //    archiveName = 'crud.war'
-}
+//}
 
 
 dependencies {
